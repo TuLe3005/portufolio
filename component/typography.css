@@ -1,0 +1,58 @@
+@import url("https://use.typekit.net/sfx0hce.css");
+h1 {
+    font-family: "argent-pixel-cf", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: clamp(2.8rem, 6.25vw, 6.5vw);
+    color: #1c1c1b;
+}
+h2 {
+    font-family: "argent-pixel-cf", sans-serif;
+    
+    font-weight: 400;
+    font-style: italic;
+    font-size: clamp(1.5rem, 3.3vw, 3.5rem);
+    color: #1c1c1b;
+    text-align: center;
+    margin: 0; 
+}
+h3 {
+    font-family: "argent-pixel-cf", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: clamp(1rem, 1.5vw, 3rem);
+    color: #DADADA;
+}
+h4 {
+    font-family: "argent-pixel-cf", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: clamp(1rem, 1.5vw, 3rem);
+    color: #1c1c1b;
+}
+p {
+    font-family: "darker-grotesque", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: clamp(1rem, 1.5vw, 3rem);
+    color: #1c1c1b
+}
+li {
+    font-family: "argent-pixel-cf", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: clamp(0.5rem, 1vw, 2rem);
+    color: #1c1c1b;
+    text-align: left;
+    list-style-type: none;
+    margin: 1rem 0; 
+}
+a {
+    font-family: "argent-pixel-cf", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: clamp(1rem, 1.5vw, 3rem);
+    text-decoration: none;
+    color: #DADADA;
+    transition: opacity 3s ease-in-out; 
+}

@@ -8,7 +8,7 @@ class Theader extends HTMLElement {
            </head>
            <body>
            <header class="desktop-header">
-           <img class="logo" src="material/logo.png" alt="Logo">
+           <a href="index.html"><img class="logo" src="material/logo.png" alt="Logo"></a>
            <nav>
             <ul class="nav-links" id="header-desktop">
                 <li><a href="index.html">Home</a></li>
